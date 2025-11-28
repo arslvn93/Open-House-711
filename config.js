@@ -9,8 +9,8 @@ window.config = {
   "realtor": {
     "fullName": "Nicole Garrett",
     "title": "REALTOR®",
+    "phone": " 6137060072",
     "email": "nicole@driscollpeca.com",
-    "phone": "613-258-2222",
     "photoUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-1487654.jpg",
     "bio": "With years of real estate service under our belt, we can assure you that you are in good hands with our team. We are committed to listening to our clients, focusing on their needs and using keen negotiating skills to ensure a successful transaction for both buyers and sellers. With deep local knowledge and a true passion for real estate, we're committed to helping you find the perfect place to call home. Let's make your next move an exciting and rewarding one — we can't wait to work with you!",
     "social": {
@@ -22,7 +22,7 @@ window.config = {
   "brokerage": {
     "name": "REAL Broker LTD",
     "logoUrl": "https://yl-clients-prod.s3.amazonaws.com/1c2ff89a-b0f6-4582-ac27-3e2203d89e67117213106_brokeredby_logo_ontario.png",
-    "address": "218 Brant Avenue Brantford ON N3T 3H9"
+    "address": "Kemptville"
   },
   "openHouse": {
     "eventDate": "",
@@ -55,18 +55,18 @@ window.config = {
     "privacyPolicyLink": "https://driscollpeca.com/privacy.html"
   },
   "settings": {
-    "primaryColor": "#00224a",
+   "primaryColor": "#00224a",
     "secondaryColor": "#05C3F9",
     "accentColor": "#05C3F9",
     "neutralColor": "",
     "adminWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouseupdate",
     "visitorWebhookUrl": "https://n8n.salesgenius.co/webhook/openhouse",
     "confettiColors": [
-      "#A78BFA",
-      "#C4B5FD",
-      "#E9D5FF",
-      "#8B5CF6",
-      "#7C3AED"
+      "#6187a7",
+      "#f0e9d6",
+      "#ffffff",
+      "#83a363",
+      "#d9ac68"
     ]
   },
   "modalQuestions": [
@@ -108,11 +108,11 @@ window.config = {
     }
   ],
   "deploymentInfo": {
-    "repoId": "1100037723",
-    "repoName": "Open-House-138",
+    "repoId": "1106116501",
+    "repoName": "Open-House-711",
+    "crmLeadParsingEmail": "deb.driscoll@followupboss.me",
     "tag": "Open House 114 Smith Road ",
     "netlifyUrl": "https://services.leadconnectorhq.com/hooks/KxSrsX5ZH2ZttFjyt9hW/webhook-trigger/723v7Nh8JC60wCn3aRmV",
-    "crmLeadParsingEmail": "",
-    "sgApiKey": ""
+    "sgApiKey": "api_366cccd01fda9ae56cc374e617ca8fc0"
   }
 };
